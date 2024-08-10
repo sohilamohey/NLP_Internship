@@ -4,13 +4,13 @@ This project involves building a web scraper to search and collect job postings 
 
 ## Key Features:
 
-Automated scraping of multiple job websites
-Extraction of relevant job details
-Data cleaning and preprocessing
-Storage of results in a CSV file or database
-Analysis of job market trends and skill requirements
+- Automated scraping of multiple job websites
+- Extraction of relevant job details
+- Data cleaning and preprocessing
+- Storage of results in a CSV file or database
+- Analysis of job market trends and skill requirements
 
 # Technologies Used:
 
-Python (BeautifulSoup)
-Pandas for data handling
+- Python (BeautifulSoup)
+- Pandas for data handling
