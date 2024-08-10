@@ -16,5 +16,27 @@ This project involves analyzing Amazon Alexa reviews to gain insights into user 
 
 5. **Embedding Techniques:** Utilizing advanced embeddings such as Word2Vec, GloVe, FastText, and Sentence Transformers to capture semantic meaning and context in the text.
 
+6. **Classification Models:**
+   - Random Forest Classifier
+   - Gradient Boosting Classifier
+   - XGBoost
+   - AdaBoost Classifier
+   - Decision Tree Classifier
+   - K Neighbors Classifier
+   - Logistic Regression
+   - Multinomial Naive Bayes
+   - Support Vector Machine
+    
+
+
+
+7. **Model Evaluation:**
+   - Confusion Matrix
+   - ConfusionMatrixDisplay
+   - Accuracy Score
+   - F1 Score
+   - Precision Score
+   - Recall Score
+
 
 The project aims to enhance understanding of customer opinions and identify key patterns and trends in Amazon Alexa reviews.
