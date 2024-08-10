@@ -14,3 +14,4 @@ This project involves building a web scraper to search and collect job postings 
 
 - Python (BeautifulSoup)
 - Pandas for data handling
+- Data Analysis and Visualization of trends.
