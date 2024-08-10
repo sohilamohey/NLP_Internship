@@ -12,9 +12,17 @@ This project involves analyzing Amazon Alexa reviews to gain insights into user 
    - Eliminating stop words, special characters, and duplicate words
    - Removing emojis
 
-4. **Vectorization Techniques:** Implementing methods like Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF) for text representation.
+4. **Vectorization Techniques:** Implementing methods like 
+   - Bag of Words (BoW) 
+   - Term Frequency-Inverse Document Frequency (TF-IDF) 
+for text representation.
 
-5. **Embedding Techniques:** Utilizing advanced embeddings such as Word2Vec, GloVe, FastText, and Sentence Transformers to capture semantic meaning and context in the text.
+5. **Embedding Techniques:** Utilizing advanced embeddings such as 
+   - Word2Vec
+   - GloVe
+   - FastText
+   - Sentence Transformers 
+to capture semantic meaning and context in the text.
 
 6. **Classification Models:**
    - Random Forest Classifier
@@ -26,7 +34,7 @@ This project involves analyzing Amazon Alexa reviews to gain insights into user 
    - Logistic Regression
    - Multinomial Naive Bayes
    - Support Vector Machine
-    
+
 
 
 
