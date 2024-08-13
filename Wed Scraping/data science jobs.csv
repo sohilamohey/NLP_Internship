@@ -1,46 +1,46 @@
-job_title,company_name,location,job_type
-AI Data Science and Machine Learning Instructor,CLS,Dokki/ Giza/ Egypt,Part Time
-Senior Accountant,Data,Hadayek October/ Giza/ Egypt,Full Time
-Data Entry,Data,Hadayek October/ Giza/ Egypt,Freelance / Project
-Administrative Assistant,Data,Hadayek October/ Giza/ Egypt,Full Time
-Senior Data Analyst,Al,Zamalek/ Cairo/ Egypt,Full Time
-Data Analyst,Lecico,Alexandria/ Egypt,Full Time
-Data Annotation Team Lead,Eg,Cairo/ Egypt,Full Time
-Data Analyst,Carina,New Cairo/ Cairo/ Egypt,Full Time
-Senior Data Analyst,Goldentex,10th of Ramadan City/ Sharqia/ Egypt,Full Time
-Data Analyst,Options,Cairo/ Egypt,Full Time
-BI Data Analyst,Confidential,Nasr City/ Cairo/ Egypt,Full Time
-Data Analyst,EGEC,Haram/ Giza/ Egypt,Full Time
-Data Quality Analyst,The,New Cairo/ Cairo/ Egypt,Full Time
-Data Center Design Leader,Mobi,Cairo/ Egypt,Full Time
-Data Scientist,BBI-Consultancy,Nasr City/ Cairo/ Egypt,Full Time
-Data Scientist,Wakeb,Mohandessin/ Giza/ Egypt,Full Time
-Data Analyst,Ashtar,New Capital/ Cairo/ Egypt,Full Time
-Data Engineer,USYTech,Heliopolis/ Cairo/ Egypt,Full Time
-Data Analyst,Qureos,Cairo/ Egypt,Full Time
-IT Specialist,Confidential,Mokattam/ Cairo/ Egypt,Full Time
-IT Manager,Confidential,Nasr City/ Cairo/ Egypt,Full Time
-Quality Assurance Specialist,El,10th of Ramadan City/ Sharqia/ Egypt,Full Time
-Software Business Analyst,Confidential,Alexandria/ Egypt,Full Time
-IT Specialist,Rockal,Nasr City/ Cairo/ Egypt,Full Time
-Data Analyst,Confidential,Mohandessin/ Giza/ Egypt,Full Time
-Centro Data Program,Centro,Maadi/ Cairo/ Egypt,Internship
-Senior Power BI Developer,Tafeel,Nasr City/ Cairo/ Egypt,Full Time
-iOS Mobile Developer,qTech.,Mansoura/ Dakahlia/ Egypt,Full Time
-Machine Learning Engineer,Citylogix,New Cairo/ Cairo/ Egypt,Full Time
-BI Analyst,Teleperformance,Katameya/ Cairo/ Egypt,Full Time
-Business Analyst,Transformation,Cairo/ Egypt,Full Time
-Senior Power BI Developer,Noases,Nasr City/ Cairo/ Egypt,Full Time
-BI Reporting Lead,Just,Cairo/ Egypt,Full Time
-IOT Process optimization consultant / 6 Months contract,Efada,6th of October/ Giza/ Egypt,Part Time
-Data Collector,Antolino,New Cairo/ Cairo/ Egypt,Full Time
-Data Analyst Team Leader,3Sixty,Mohandessin/ Giza/ Egypt,Full Time
-Data/Artificial Intelligence Sr. Consultant,Exco,Nasr City/ Cairo/ Egypt,Full Time
-Big Data Consultant,Exco,Nasr City/ Cairo/ Egypt,Full Time
-Business Data Analyst,Fawry,Smart Village/ Giza/ Egypt,Full Time
-Data Analyst,Royal,Heliopolis/ Cairo/ Egypt,Full Time
-Data Analyst,Confidential,Qalyub/ Qalubia/ Egypt,Full Time
-Senior Data Center Engineer - Hyper Converged Implementation,IT,New Cairo/ Cairo/ Egypt,Full Time
-Senior Data Science Analyst,Qatar,Doha/ Qatar,Full Time
-Machine Learning Engineer,WUZZUF,Maadi/ Cairo/ Egypt,Full Time
-Senior Data Analyst,El-nour,Obour City/ Cairo/ Egypt,Full Time
+job_title,company_name,location,job_type,job_url
+AI Data Science and Machine Learning Instructor,CLS,Dokki/ Giza/ Egypt,Part Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Accountant,Data,Hadayek October/ Giza/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Entry,Data,Hadayek October/ Giza/ Egypt,Freelance / Project,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Administrative Assistant,Data,Hadayek October/ Giza/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Kasrawy,Abu Rawash/ Giza/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Selah,Obour City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Center Design Leader,Mobi,Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Annotation Team Lead,Eg,Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Data Analyst,Al,Zamalek/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Lecico,Alexandria/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Data Engineer,Paymob,Maadi/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Carina,New Cairo/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Data Analyst,Goldentex,10th of Ramadan City/ Sharqia/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Options,Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,EGEC,Haram/ Giza/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+BI Data Analyst,Confidential,Nasr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Quality Analyst,The,New Cairo/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Scientist,BBI-Consultancy,Nasr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Scientist,Wakeb,Mohandessin/ Giza/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Ashtar,New Capital/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Engineer,USYTech,Heliopolis/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+IOT Process optimization consultant / 6 Months contract,Efada,6th of October/ Giza/ Egypt,Part Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+iOS Mobile Developer,qTech.,Mansoura/ Dakahlia/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+IPC Officer,Confidential,Badr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Network Engineers,Teleperformance,Katameya/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+IT Specialist,Confidential,Mokattam/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Qureos,Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+IT Manager,Confidential,Nasr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Science Teacher ( Chemistry/ Biology and Physics)(American Curriculum),Creatives,10th of Ramadan City/ Sharqia/ Egypt,Part Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Quality Assurance Specialist,El,10th of Ramadan City/ Sharqia/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Software Business Analyst,Confidential,Alexandria/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+IT Specialist,Rockal,Nasr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Power BI Developer,Tafeel,Nasr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Confidential,Mohandessin/ Giza/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Machine Learning Engineer,Citylogix,New Cairo/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Centro Data Program,Centro,Maadi/ Cairo/ Egypt,Internship,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+BI Analyst,Teleperformance,Katameya/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Internship - Data Analysis/ Science,Rize,Riyadh/ Saudi Arabia,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Business Analyst,Transformation,Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Collector,Antolino,New Cairo/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Power BI Developer,Noases,Nasr City/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+BI Reporting Lead,Just,Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Royal,Heliopolis/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Data Analyst,Confidential,Qalyub/ Qalubia/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
+Senior Data Center Engineer - Hyper Converged Implementation,IT,New Cairo/ Cairo/ Egypt,Full Time,https://wuzzuf.net/jobs/p/z0CoEumbENY6-AI-Data-Science-and-Machine-Learning-Instructor-CLS-Learning-Solutions-Giza-Egypt
